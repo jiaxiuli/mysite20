@@ -1,3 +1,8 @@
+![image](https://github.com/jiaxiuli/mysite20/blob/master/img/hello.png)
+![image](https://github.com/jiaxiuli/mysite20/blob/master/img/login.png)
+![image](https://github.com/jiaxiuli/mysite20/blob/master/img/course.png)
+![image](https://github.com/jiaxiuli/mysite20/blob/master/img/admin.png)
+
 ## About all the user information
 
 username:john
